@@ -1,0 +1,7 @@
+# Created by Clion
+.idea/
+cmake-*/
+
+# Created by nix-build
+result
+
